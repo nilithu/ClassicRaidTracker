@@ -37,6 +37,4 @@ Our raid distributes loot at the end of the raid, to make it easier the addon tr
 
 # Credit
 Credit goes to the original authors - I have no idea about LUA so expect bugs. 
-
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR FITNESS FOR A PARTICULAR PURPOS
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR FITNESS FOR A PARTICULAR PURPOSE
