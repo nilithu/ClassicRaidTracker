@@ -200,7 +200,7 @@ MRT_L.Options["EP_EQDKP_Plus_XML"] = "EQdkp-Plus XML"
 --[[Translation missing --]]
 MRT_L.Options["EP_EQDKPTitleText"] = "EQdkp-Plus XML settings"
 --[[Translation missing --]]
-MRT_L.Options["EP_HTML"] = "CSS based HTML with wowhead links"
+MRT_L.Options["EP_HTML"] = "thatsmybis.com"
 --[[Translation missing --]]
 MRT_L.Options["EP_MLDKP_15"] = "MLdkp 1.5"
 MRT_L.Options["EP_Plain_Text"] = "Texto plano"
