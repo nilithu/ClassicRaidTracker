@@ -24,7 +24,7 @@ Open `Interface Options -> Classic RaidTracker`
   
 
 ## Usage
-Our raid distributes loot at the end of the raid, to make it easier the addon tracks all looted items that are then distributed via trade to the member that is elightable for the item. 
+Our raid distributes loot at the end of the raid, to make it easier the addon tracks all looted items that are then distributed via trade to the member that is elightable for the item. Thus the character name is hardcoded to `-`
 
 * Enter any raid - Addon should create a new raid automatically 
 * you can check the current status by typing `/mrt`
@@ -33,6 +33,7 @@ Our raid distributes loot at the end of the raid, to make it easier the addon tr
 * Click `End current raid` (no idea what happens if you don't)
 * Paste data into thatsmybis.com
 
+![example](./img/export.png)
 
 # Credit
 Credit goes to the original authors - I have no idea about LUA so expect bugs. 
